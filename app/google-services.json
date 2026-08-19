@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "38136628231",
+    "firebase_url": "https://chat-lan-97360-default-rtdb.firebaseio.com",
+    "project_id": "chat-lan-97360",
+    "storage_bucket": "chat-lan-97360.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38136628231:android:ccb94f9bee95f07d4696a2",
+        "android_client_info": {
+          "package_name": "com.chatlan.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGq_c0Vj201C8wlYrS8W7OAZud-U8EWs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
